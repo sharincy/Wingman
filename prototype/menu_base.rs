@@ -1,6 +1,5 @@
 use std::io;
 
-// Define a custom data structure for tasks
 struct Task {
     title: String,
     description: String,
@@ -8,7 +7,6 @@ struct Task {
 }
 
 impl Task {
-    // Constructor
     fn new(title: String, description: String) -> Task {
         Task {
             title,
@@ -17,12 +15,10 @@ impl Task {
         }
     }
 
-    // A method to convert a task to a string for saving to a file
     fn to_string(&self) -> String {
         format!("Title: {}\nDescription: {}\nCompleted: {}\n", self.title, self.description, self.completed)
     }
 
-    // A method to create a task from a string loaded from a file
     fn from_string(s: &str) -> Task {
         let mut title = String::new();
         let mut description = String::new();
