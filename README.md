@@ -55,3 +55,6 @@ Export Tasks: Users can export the list of tasks to a file in either JSON or YAM
 > serde_yaml = "0.8"
 > clap = "2.33"
 
+
+# Tutorial!
+Tutorial or example usage are in the PDF file! Please feel free to unfold the unexplored!
