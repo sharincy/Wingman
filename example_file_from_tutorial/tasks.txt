@@ -1,0 +1,12 @@
+Title: Calculus Review
+Description: Make sure that I ACTUALLY review it
+Completed: true
+
+Title: Exercise regularly
+Description: At least I think I want to exercise everyday for an hour......
+Completed: false
+
+Title: Final Exam.....
+Description: Prepare yourself for the final exam, first you need to understand that core
+Completed: false
+

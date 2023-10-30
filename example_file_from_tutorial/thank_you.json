@@ -1,0 +1,12 @@
+[
+  {
+    "title": "Calculus Review",
+    "description": "Make sure that I ACTUALLY review it",
+    "completed": true
+  },
+  {
+    "title": "Exercise regularly",
+    "description": "At least I think I want to exercise everyday for an hour......",
+    "completed": false
+  }
+]
